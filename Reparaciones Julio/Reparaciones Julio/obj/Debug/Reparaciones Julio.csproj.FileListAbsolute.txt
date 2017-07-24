@@ -1,0 +1,12 @@
+c:\users\facundo\documents\visual studio 2015\Projects\Reparaciones Julio\Reparaciones Julio\bin\Debug\Reparaciones Julio.exe.config
+c:\users\facundo\documents\visual studio 2015\Projects\Reparaciones Julio\Reparaciones Julio\obj\Debug\Reparaciones Julio.csprojResolveAssemblyReference.cache
+c:\users\facundo\documents\visual studio 2015\Projects\Reparaciones Julio\Reparaciones Julio\obj\Debug\Reparaciones_Julio.ReparacionesJulio.resources
+c:\users\facundo\documents\visual studio 2015\Projects\Reparaciones Julio\Reparaciones Julio\obj\Debug\Reparaciones_Julio.Properties.Resources.resources
+c:\users\facundo\documents\visual studio 2015\Projects\Reparaciones Julio\Reparaciones Julio\obj\Debug\Reparaciones Julio.csproj.GenerateResource.Cache
+c:\users\facundo\documents\visual studio 2015\Projects\Reparaciones Julio\Reparaciones Julio\bin\Debug\Reparaciones Julio.exe
+c:\users\facundo\documents\visual studio 2015\Projects\Reparaciones Julio\Reparaciones Julio\bin\Debug\Reparaciones Julio.pdb
+c:\users\facundo\documents\visual studio 2015\Projects\Reparaciones Julio\Reparaciones Julio\obj\Debug\Reparaciones Julio.exe
+c:\users\facundo\documents\visual studio 2015\Projects\Reparaciones Julio\Reparaciones Julio\obj\Debug\Reparaciones Julio.pdb
+c:\users\facundo\documents\visual studio 2015\Projects\Reparaciones Julio\Reparaciones Julio\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Facundo\documents\visual studio 2015\Projects\Reparaciones Julio\Reparaciones Julio\obj\Debug\Reparaciones_Julio.VerCliente.resources
+C:\Users\Facundo\documents\visual studio 2015\Projects\Reparaciones Julio\Reparaciones Julio\obj\Debug\Reparaciones_Julio.Forms.Editar.resources
